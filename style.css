@@ -1,0 +1,17 @@
+
+.relative {position: relative;
+}
+.absolute{position: absolute;
+}
+.fixed{position:fixed;
+}
+.sticky{position:sticky;
+}
+.static{position:static;
+}
+.parent{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: gray;
+}
